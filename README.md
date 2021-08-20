@@ -44,7 +44,7 @@ you've just cloned!!
 > pkg install ffmpeg
 > pkg install libwebp
 > git clone https://github.com/itsMySky/Bot-Wa
-> cd xdev-self
+> cd Bot-Wa
 > npm i
 > node run.js
 ```
