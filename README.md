@@ -47,7 +47,9 @@ you've just cloned!!
 > cd xdev-self
 > npm i
 > node run.js
+```
 # Untuk Sdcard (File Sudah Di Download)
+```bash
 > cd /sdcard
 > cp -r xdev-self-main $HOME
 > cd xdev-self-main
