@@ -52,7 +52,7 @@ you've just cloned!!
 # Untuk Sdcard (File Sudah Di Download)
 ```bash
 > cd /sdcard
-> cp -r xdev-self-main $HOME
+> cp -r Bot-Wa-main $HOME
 > cd xdev-self-main
 > npm i
 > node sen.js
