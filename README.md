@@ -46,7 +46,8 @@ you've just cloned!!
 > git clone https://github.com/itsMySky/Bot-Wa
 > cd Bot-Wa
 > npm i
-> node run.js
+> node sen.js
+=> Scan Qr !
 ```
 # Untuk Sdcard (File Sudah Di Download)
 ```bash
@@ -54,7 +55,7 @@ you've just cloned!!
 > cp -r xdev-self-main $HOME
 > cd xdev-self-main
 > npm i
-> node run.js
+> node sen.js
 ```
 
 # Install To Pc/Rdp
