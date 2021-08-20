@@ -34,7 +34,7 @@ you've just cloned!!
 > WhatsApp
 
 ```
-# CARA INSTALL DI TERMUX
+# Cara Install Di Termux
 ```bash
 > termux-setup-storage
 > pkg update && pkg upgrade
@@ -57,7 +57,7 @@ you've just cloned!!
 > node run.js
 ```
 
-# INSTALLL To Pc/RDP
+# Install To Pc/Rdp
 * [Node.js](https://nodejs.org/en/)
 * [Git](https://git-scm.com/downloads)
 * [FFmpeg](https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-2020-12-08-13-03/ffmpeg-n4.3.1-26-gca55240b8c-win64-gpl-4.3.zip)
